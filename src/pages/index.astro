@@ -11,6 +11,7 @@ import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
 import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
+import NoImageContent from '~/components/widgets/NoImageContent.astro';
 
 const metadata = {
   title: "My own common sense — Xavi Ametller's personal web page",
@@ -21,7 +22,7 @@ const metadata = {
 <Layout metadata={metadata}>
   <!-- Hero Widget ******************* -->
 
-  <Hero
+  <!-- <Hero
     image={{ src: import('~/assets/images/my-library-of-tech-books.jpeg'), alt: 'AstroWind Hero Image' }}
   >
     <Fragment slot="title">
@@ -32,14 +33,66 @@ const metadata = {
         Ideas, opinions, thoughts and other rants about Software development.</span
       >
     </Fragment>
-  </Hero>
+  </Hero> -->
 
   <!-- Note Widget ******************* -->
 
-  <Note />
+  <!-- <Note /> -->
 
-  <!-- Features Widget *************** -->
+   <!-- Content Widget **************** -->
+   <Content   
+   title="Hi, I'm Xavi Ametller"   
+   image={{
+     src: import('~/assets/images/caos.jpg'),
+     alt: 'Colorful Image',      
+   }}
+ >
+   <Fragment slot="content">
+     <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">About me</h3>
+     I've been developing Software since 2003 and during those years I've done my fair share of mistakes, I even learnt something from some of them. Somehow during this trip it came to me the opportunity to teach and I did like it, a lot.
+    <p></p><p></p><p></p>
+    
+     Other persons and companies also seem to appreciate my collaboration as consultant (still wonder why, but who am I to discuss with them - the only thing I can say is 'It depends').
+   </Fragment>
+ </Content>
 
+ <!-- Content Widget **************** -->
+ <Content   
+ isReversed="true" 
+ items={[
+   {
+     title: 'Knowledge',
+     description:
+       'Reading books is my main source of information. I also use Twitter, read blogs and other kind of sources, but my love for order and structure seems to lean towards learning from formal books. That pic here is the biggest part of my library, of course I have not read all those books from beggining to end, but a good chunk of them I do. Also, I have an O\'Reilly subscription which I use very much. If you are a "book person" I recommend you to take a look.',
+   },
+   {
+     title: 'Experience',
+     description:
+       'I\'ve done a little bit of everything and not much of anything: development of win applications, webs (B2C, SPA), testing (webs, mobile app, win aplications), leading teams and nowadays even I\'m trying with innovation.',
+   },
+   {
+     title: 'Common sense',
+     description:
+       'Fine, that looks like a weak offer, everyone has common sense (it\'s common, isn\'t it?). I\'m just pointing it out because when I ask about my strong points this one seems to come up very often.',
+   },
+ ]}
+ image={{
+   src: import('~/assets/images/my-library-of-tech-books.jpeg'),
+   alt: 'Colorful Image',      
+ }}
+>
+ <Fragment slot="content">
+   <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">What can I offer you?</h3>
+   My knowledge, experience and comon sense. Let me explain a little bit more:
+ </Fragment>
+</Content>
+
+<NoImageContent>
+  <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Why a personal website?</h3>
+  XAVIIIIIIIIIIIIIIIIIII
+</NoImageContent>
+
+  <!-- Features Widget *************** -->  
   <Features
     id="features"
     tagline="Features"
@@ -85,39 +138,7 @@ const metadata = {
     ]}
   />
 
-  <!-- Content Widget **************** -->
-
-  <Content
-    tagline="Inside template"
-    title="And what's inside? ..."
-    items={[
-      {
-        title: 'Per ei quaeque sensibus',
-        description:
-          'Ex usu illum iudico molestie. Pro ne agam facete mediocritatem, ridens labore facete mea ei. Pro id apeirian dignissim.',
-      },
-      {
-        title: 'Cu imperdiet posidonium sed',
-        description:
-          'Amet utinam aliquando ut mea, malis admodum ocurreret nec et, elit tibique cu nec. Nec ex maluisset inciderint, ex quis.',
-      },
-      {
-        title: 'Nulla omittam sadipscing mel ne',
-        description:
-          'At sed possim oporteat probatus, justo graece ne nec, minim commodo legimus ut vix. Ut eos iudico quando soleat, nam modus.',
-      },
-    ]}
-    image={{
-      src: import('~/assets/images/caos.jpg'),
-      alt: 'Colorful Image',
-    }}
-  >
-    <Fragment slot="content">
-      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Ad vix debet docendi</h3>
-      Ne dicta praesent ocurreret has, diam theophrastus at pro. Eos etiam regione ut, persius eripuit quo id. Sit te euismod
-      tacimates.
-    </Fragment>
-  </Content>
+ 
 
   <!-- Content Widget **************** -->
 
