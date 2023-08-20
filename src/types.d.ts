@@ -239,5 +239,4 @@ export interface Content extends Headline, Widget {
   items?: Array<Item>;
   columns?: number;
   isReversed?: boolean;
-  proportion?: string;
 }

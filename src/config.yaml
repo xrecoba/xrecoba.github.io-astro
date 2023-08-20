@@ -1,5 +1,5 @@
 site:
-  name: My Own Common Sense
+  name: AstroWind
   site: 'https://xrecoba.github.io'  
   trailingSlash: false
 
@@ -8,14 +8,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: My Own Common Sense
+    default: AstroWind
     template: '%s — AstroWind'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    siteName: My Own Common Sense
+    siteName: AstroWind
     images:
       - url: '~/assets/images/default.jpg'
         width: 1200
@@ -66,7 +66,7 @@ analytics:
       id: null # or "G-XXXXXXXXXX"
 
 ui:
-  theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
+  theme: 'dark' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
 
   tokens:
     default:

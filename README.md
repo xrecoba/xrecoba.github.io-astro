@@ -1,4 +1,4 @@
-# 🚀 My own common sense
+# 🚀 AstroWind
 
 <img src="https://raw.githubusercontent.com/onwidget/.github/main/resources/astrowind/lighthouse-score.png" align="right"
      alt="AstroWind Lighthouse Score" width="100" height="358">
@@ -34,22 +34,17 @@
 <details open>
 <summary>Table of Contents</summary>
 
-- [🚀 My own common sense](#-my-own-common-sense)
-  - [Features](#features)
-  - [Demo](#demo)
-  - [Getting started](#getting-started)
-    - [Project structure](#project-structure)
-    - [Commands](#commands)
-    - [Configuration](#configuration)
-    - [Deploy](#deploy)
-      - [Deploy to production (manual)](#deploy-to-production-manual)
-      - [Deploy to Netlify](#deploy-to-netlify)
-      - [Deploy to Vercel](#deploy-to-vercel)
-  - [Frequently Asked Questions](#frequently-asked-questions)
-  - [Related projects](#related-projects)
-  - [Contributing](#contributing)
-  - [Acknowledgements](#acknowledgements)
-  - [License](#license)
+- [Demo](#demo)
+- [Getting started](#getting-started)
+  - [Project structure](#project-structure)
+  - [Commands](#commands)
+  - [Configuration](#configuration)
+  - [Deploy](#deploy)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Related Projects](#related-projects)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 </details>
 
