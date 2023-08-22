@@ -2,7 +2,7 @@
 publishDate: 2022-04-18T00:00:00Z
 title: Ensemble 101
 excerpt: Some notes on ensemble programming after reading Technical Agile Coaching with the Samman method from Emily Bache.
-image: ~/assets/images/blog/ensemble-session.jpg
+image: ~/assets/images/blog/ensemble-101/ensemble-session.jpg
 tags:
   - Ensemble
   - Mob
