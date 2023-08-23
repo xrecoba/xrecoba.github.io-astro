@@ -29,6 +29,8 @@ So, after documenting ourselves a little bit on how to do a User Story Mapping, 
 
 <img src="images/user-story-mapping/our-first-user-story-map.jpeg"/>
 
+<img src="public/images/user-story-mapping/our-first-user-story-map.jpeg"/>
+
 Let me explain the process which lead us to this diagram:
 
 <ol>
