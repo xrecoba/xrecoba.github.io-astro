@@ -22,7 +22,7 @@ metadata:
         height: 628
     type: website
   twitter:
-    handle: '@onwidget'
+    handle: '@xaviadev'
     site: '@onwidget'
     cardType: summary_large_image
 
@@ -33,7 +33,7 @@ i18n:
 apps:
   blog:
     isEnabled: true
-    postsPerPage: 6
+    postsPerPage: 10
 
     post:
       isEnabled: true
