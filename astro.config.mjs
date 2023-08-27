@@ -81,6 +81,17 @@ export default defineConfig({
     remarkPlugins: [readingTimeRemarkPlugin],
   },
 
+  redirects: {    
+    '/posts/inspirational-books/': {
+      status: 302,
+      destination: '/inspirational-books'
+    },
+    '/posts/the-dora-retro/': {
+      status: 302,
+      destination: '/the-dora-retro'
+    }
+  },  
+
   vite: {
     resolve: {
       alias: {
