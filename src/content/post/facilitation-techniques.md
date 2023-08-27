@@ -2,7 +2,8 @@
 publishDate: 2022-04-18T00:00:00Z
 title: Facilitation techniques
 excerpt: A toolbelt of techniques I use to make the most of the meetings I facilitate
-image: ~/assets/images/blog/facilitaton-techniques/facilitation-techniques-schema.png
+
+image: ~/assets/images/blog/facilitation-techniques/facilitation-techniques-schema.png
 tags:
   - Facilitation
   - Meetings

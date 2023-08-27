@@ -2,13 +2,11 @@
 publishDate: 2021-04-23T00:00:00Z
 title: Taking care of my voice
 excerpt: After it started to break speaking a lot at work
-image: ~/assets/images/blog/taking-care-of-my-voice/taking-care-of-my-voice.png
+image: ~/assets/images/blog/taking-care-of-my-voice/TakingCareOfMyVoice.png
 tags:
   - Voice
   - Aphony  
 ---
-
-<img src="/assets/blog/taking-care-of-my-voice/TakingCareOfMyVoice.png"/>
 
 Going fully remote in a job which pair or mob programming is the norm forced my voice to a level where it started to suffer ( I also tried to sang every once in a while, guess that also contributed) .
 
