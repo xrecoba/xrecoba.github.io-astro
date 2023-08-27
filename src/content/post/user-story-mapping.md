@@ -27,7 +27,7 @@ User Story Mapping is a technique developed by Jeff Patton who defines it as:
 
 So, after documenting ourselves a little bit on how to do a User Story Mapping, we built our first one which ended up becoming something like this (sorry, blurred for privacy):
 
-<img src="images/user-story-mapping/our-first-user-story-map.jpeg"/>
+<img src="./images/user-story-mapping/our-first-user-story-map.jpeg"/>
 
 <img src="public/images/user-story-mapping/our-first-user-story-map.jpeg"/>
 
