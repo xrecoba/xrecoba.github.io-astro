@@ -7,7 +7,6 @@ tags:
   - Programming  
 ---
 
-<img src="/assets/blog/programming-cheatsheet/programming-cheatsheet.jpg"/>
 Hello,
 
 Last book I finished is <a href="https://www.oreilly.com/library/view/agile-technical-practices/9781838980849/">Agile Technical Practices Distilled</a> by <a href="https://twitter.com/pedromsantos">Pedro M. Santos</a>, <a href="https://twitter.com/consolondon">Marco Consolaro</a> and <a href="https://www.linkedin.com/in/alessandro-di-gioia/">Alessandro Di Gioia</a>. The book is crammed with concepts from a very wide range of topics and a good bunch of them, specially in the beginning, relate to coding. 

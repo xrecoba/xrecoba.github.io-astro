@@ -7,8 +7,6 @@ tags:
   - Testing   
 ---
 
-<img src="/assets/blog/testing-techniques-summary/testing-techniques-summary.jpg"/>
-
 Last week I was about to start a session of my Online Live Training with O'Reilly and I decided to do a small recap of a bunch of testing techniques while practicing my Notability skills.
 
 In short, hope the outcome, provides a good reminder for anyone willing to test a feature of some of the techniques that could help.
