@@ -8,6 +8,8 @@ tags:
   - Meetings
 ---
 
+<img src="/assets/blog/facilitation-techniques/facilitation-techniques-schema.png"/>
+
 Facilitating meetings or retrospectives is something we do quite often nowadays. Meetings can add a lot of value, but at the same time are expensive (have you ever calculated what was the cost of a meeting for your company in 💸)? If not, you should do that, it can be surprising).
 
 Over the years, I have learned some practices and techniques that helped me improve what we get from the time invested in the meeting. 

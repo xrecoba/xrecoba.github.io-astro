@@ -18,7 +18,7 @@ This long article is a translation of an errand I wrote on August 2008, just aft
 <h2>Sending the CV(s)</h2>
 It all started around October of 2007, there was an ad in a magazine called DotNetMania (a paper magazine about .Net which no longer exists) asking: "Do you want to work at Microsoft?" The requirements were to be an engineer (of any kind) and have 2 or 3 years of experience in C#. I met the requirements and wanted to work at Microsoft, so I went for it, <i>from lost to the river</i>. 
 
-<img src="/images/blog/how-did-I-end-up-in-Microsoft/Microsoft-job-offer.jpg"></img>
+<img src="/assets/blog/how-did-I-end-up-in-Microsoft/Microsoft-job-offer.jpg"></img>
 
 
 The ad did not give any clue as to what kind of work it was or where it was (it said a pretty generic Europe), so I sent my standard CV to a Spanish email address. A week later they answered my email telling me to send them my English version of the resume (as if I had an English version of it at that moment in time 😂).
@@ -101,7 +101,7 @@ And that's where the interview ended. Then, at dinner time, all the interviewees
 
 <h2>The offer</h2>
 And that's pretty much all there is to the selection process. After 10 days they sent me an email congratulating me because they had decided to make me an offer and from there everything was rushed. I accepted without any kind of bargaining and went there to start working as a tester, live abroad and learn lots of things.
-<img src="/images/blog/how-did-I-end-up-in-Microsoft/offer.jpg"></img>
+<img src="/assets/blog/how-did-I-end-up-in-Microsoft/offer.jpg"></img>
 
 BTW, once in MDCC, I realized my first interviewer was the test lead for the whole Microsoft Dynamics NAV product (So my lead's lead). Once, at a party, I asked him why did he move forward with me if I started my first interview writing 10 lines of code with 3 mistakes. The answer was a lesson: "Because you were humble about the criticism, embraced my feedback, found the bugs and fixed them" 🥳. So another lesson to wrap up: Let the people make mistakes in the interview. 
 

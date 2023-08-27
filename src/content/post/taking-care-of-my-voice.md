@@ -8,7 +8,7 @@ tags:
   - Aphony  
 ---
 
-<img src="/public/images/TakingCareOfMyVoice.png"/>
+<img src="/assets/blog/taking-care-of-my-voice/TakingCareOfMyVoice.png"/>
 
 Going fully remote in a job which pair or mob programming is the norm forced my voice to a level where it started to suffer ( I also tried to sang every once in a while, guess that also contributed) .
 

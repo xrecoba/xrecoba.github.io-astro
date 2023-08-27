@@ -50,7 +50,8 @@ So, after a couple of months we were done with tracking leads via an Instant Mes
 
 
 After our success with the previous project, we (ab)used User Story Mapping to organize our ideas. Why do I say we abused it? Because we skipped the Backbone and the Actors discussion, and we organized the map in columns by products/technologies involved in the project. In that case we ended up with something like this:
-<img src="images/user-story-mapping/component-based-user-story-mapping.jpeg"/>
+
+<img src="/assets/blog/user-story-mapping/component-based-user-story-mapping.jpeg"/>
 
 I know that we were probably anchored in an implementation idea and the User Story Mapping was heavily influenced by that, also that we are partially defeating the purpose of the exercise of having the user in the centre. As an argument to justify why we did it, I would like to say that the idea came from a previous discussion/analysis were multiple alternatives were considered. Based on that, we knew we had a heavily preferred option and we had high hopes that it would work (still, we started reducing risks with a walking skeleton).
 

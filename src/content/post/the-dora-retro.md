@@ -57,7 +57,7 @@ The Dora research uses 4 key metrics to differentiate low, medium, high and elit
 
 While introducing this concept it's nice to justify <i>WHY</i> those 4 metrics were chosen (See chapter 2 of Accelerate for more info) and also to highlight their relationship with SW Development, SW Deployment and Service Operation.
 
-<img src="/images/dora-retro/4-key-metrics-stages.png"/>
+<img src="/assets/blog/the-dora-retro/4-key-metrics-stages.png"/>
 
 
 <h4>Activity I</h4>
@@ -73,7 +73,7 @@ While introducing this concept it's nice to justify <i>WHY</i> those 4 metrics w
 The studies from Dora have found a series of relationships between capabilities and outcomes. Those relationships are <mark>positive predictive</mark> meaning that the existence or practice of the element on the origin has a positive impact on the destination element. 
 The best way to explain this is by opening <a href="https://www.devops-research.com/research.html#reports"> Dora's animated diagram</a> and playing around.
 
-<img src="/images/dora-retro/Dora-diagram.png"/>
+<img src="/assets/blog/the-dora-retro/Dora-diagram.png"/>
 
 Given the diagram I'd like to share these insights:
 * Organizational performance (probably the most interesting <i>bubble</i> for your organization) only has 3 predictors: "Lean product development", "Culture and work environment" and "Software delivery & operational performance". So, if you want to improve your organization, that's where you should put your efforts.
@@ -91,7 +91,7 @@ So... since this is a technical retro and improving on Continuous Delivery will 
 <li> <b>Pick one experiment</b> (10-15 min) - And only one!
 </ul>
 
-<img src="/images/dora-retro/cd-practices-exercise.png"/>
+<img src="/assets/blog/the-dora-retro/cd-practices-exercise.png"/>
 
 <h4>Fist of five + Feedback</h4>
 So, you should have now 2 experiments for your next sprint, one inspired by the 4 key metrics and the other by the CD technical practices. It's time to take 2 minutes to reflect on the retro. I like to do a fist of five and ask for feedback on how to improve in the future.
