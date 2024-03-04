@@ -19,7 +19,8 @@ https://www.svpg.com/managing-commitments-in-an-agile-team/?sfw=pass1666036433
 DDD
 https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/
 
-
+Engineering manager vs Individual Contributor
+https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
 
 Martin Fowler
 https://martinfowler.com/bliki/UnitTest.html
